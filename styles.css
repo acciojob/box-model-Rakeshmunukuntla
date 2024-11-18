@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+body{
+	
+	display:flex;
+	width:500px;
+	height:200px;
+	justify-content:center;
+	padding:10px;
+	border: 3px solid black;
+	border-radius:50px;
+	
+}
+div{
+	
+	padding:0px;
+	margin:30px;
+	height:100px;
+	width:100px;
+	border-radius:100px;
+	
+}
